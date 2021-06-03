@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties demands and propositions propounded to the lords, knights and gentlemen of Staffordshire and neer adioyning counties of South-Wales, at Vxeter in Staffordshire, on Monday the 19 of September : with their iudicious answer to the said propositions : also a true information of His Majesties proceedings since his arrivall in those parts.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18977</idno><idno type="EEBO-CITATION">12281916</idno>
+  <idno type="VID">197675</idno>
+  <idno type="EEBO-PROQUEST">2240962048</idno>
+  
+            <idno type="STC">Wing C2293</idno>
+            <idno type="OCLC">12281916</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197675)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E118, no 28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties demands and propositions propounded to the lords, knights and gentlemen of Staffordshire and neer adioyning counties of South-Wales, at Vxeter in Staffordshire, on Monday the 19 of September : with their iudicious answer to the said propositions : also a true information of His Majesties proceedings since his arrivall in those parts.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Hen. Rydiar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 23, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197675:1"/>
+            <pb facs="tcp:197675:1"/>
+            <p>THE KINGS MAIESTIES DEMANDS AND PROPOSITIONS Propounded to the <hi>Lords, Knights</hi> and <hi>Gen<g ref="char:EOLhyphen"/>tlemen</hi> of <hi>Staffordshire,</hi> and neer adioyning Counties of <hi>South-Wales,</hi> at <hi>Vxeter</hi> in <hi>Staffordshire,</hi> on <hi>Monday</hi> the 19. of <hi>September.</hi>
+            </p>
+            <p>With their Iudicious Answer to the said <hi>Propositions.</hi>
+            </p>
+            <p>Also a true Information of His <hi>Majesties</hi> proceedings since His arrivall in those parts.</p>
+            <figure>
+               <figDesc>arms</figDesc>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Hen. Rydiar,</hi> Septemb. 23. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197675:2"/>
+            <pb facs="tcp:197675:2"/>
+            <head>THE PROPOSITIONS Of His <hi>Majestie,</hi> propounded to the <hi>Lords, Knights,</hi> and <hi>Gentlemen</hi> of <hi>Staf<g ref="char:EOLhyphen"/>ford shire,</hi> and neere adjoyning Counties of South <hi>Wales, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majestie having made his Residence a long time at <hi>Nottingham,</hi> found that His time and expences there, had avai<g ref="char:EOLhyphen"/>led Him little: wherefore He resolved to remove from thence to <hi>Darby,</hi> from <hi>Darby,</hi> into <hi>Stafford<g ref="char:EOLhyphen"/>sheire</hi> to <hi>Ʋxeter;</hi> to the end that He might be fur<g ref="char:EOLhyphen"/>ther from the Earl of <hi>Essex,</hi> and nearer to <hi>Wales,</hi> from whence He expected most of His Forces should come.</p>
+            <p>Where being arrived, He found an unexpected welcome, for in stead of multitudes of people as<g ref="char:EOLhyphen"/>sembled to entertain Him with applause, Hee found a little Army of <hi>Knights</hi> and <hi>Gentlemen</hi> ral<g ref="char:EOLhyphen"/>lied
+<pb n="2" facs="tcp:197675:3"/> in a Warlike Posture, rather to oppose then welcome Him. Wherefore He sent a Herrald to demand the cause of their appearance in such a forme of opposition? Who being arrived, He re<g ref="char:EOLhyphen"/>ceiv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d this Answer: That they appeared rather Petitioners, then opposers; neither was it their in<g ref="char:EOLhyphen"/>tent, any way to oppose His Majestie, whom they were bound to protect, but to defend His Maje<g ref="char:EOLhyphen"/>stie, and themselves from the oppression, Rapin, and murder of those Blood-thirstie Papists and o<g ref="char:EOLhyphen"/>thers, who had assembled themselves together un<g ref="char:EOLhyphen"/>der a pretence of standing for His Majestie, when indeed their practises and endeavours, are only to ruine both Him and His Kingdom. This being apparently known, and seriously weigh'd, they found themselves bound in Loyaltie to His Ma<g ref="char:EOLhyphen"/>jestie, and in care of their own safety, (now while they had power in their own hands) to provide both for the protection of His Maiestie, and the Peace of the Kingdom.</p>
+            <p>Likewise they delivered to the said Herald, a short Scedule, wherein was contained a Declara<g ref="char:EOLhyphen"/>tion of their affection, both to the King and Parli<g ref="char:EOLhyphen"/>ament, with their Resolution concerning certain Propositions which they had received from His
+<pb n="3" facs="tcp:197675:3"/> Majestie by the Lord <hi>Strange.</hi> The effect of which Propositions was as followeth.</p>
+            <p n="1">1. That whereas a present Rebellion and actu<g ref="char:EOLhyphen"/>all warre was leavied in the South under a pre<g ref="char:EOLhyphen"/>tence of standing for his Majesty, and for the pro<g ref="char:EOLhyphen"/>tection of His sacred person, when in deed it was done by some factious persons, who onely ayme at the subversion of the Law of the Land, and the known Religion of the Church of <hi>England,</hi> abso<g ref="char:EOLhyphen"/>lutely invading the prerogative of the King, and propriety of the Subiect: wherefore his Maiesty finding himself bound in conscience to defend all his loving Subiects, from being made subiect to an Arbitrary Power; And whereas it was not in his power to defend them, or Himself, without their loyall assistance, He was forced to demand their Aid for the suppressing the present rebellion and insurrection.</p>
+            <p n="2">2. That whereas a warre of such consequence and danger cannot be managed and maintained wirhout money, which He was destitute of, by reason that His Revenue was detained, and all means of subsisting taken from him, his goods seiz<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d on, and his Forts and Ships kept by vio<g ref="char:EOLhyphen"/>lence from him: wherefore he was forced (they being obliged thereto, their own securitie and
+<pb n="4" facs="tcp:197675:4"/> future freedome lying at stake) to demand their utmost assistance both of men, armes and money; which granted, he doubted not but that by Gods protection, he should reduce those insurrections people to their pristine obedience, and make it a happy return to all those that had or should stand close to him in a time of such danger and distra<g ref="char:EOLhyphen"/>ction.</p>
+            <p>These Propositions they returned this Answer.</p>
+            <p>That whereas His Maiestie was pleased to terme that a Rebellion in the South, which was done onely for his own securitie, and of whose loyall affections to his Maiestie, they had recei<g ref="char:EOLhyphen"/>ved a large testimony: They humbly desired his Maiestie to recall that scandall which he had thrown upon them, it being onely the fruit of the evill Counsellors about his Maiesty, who for the furtherance of their own desperate &amp; bloody designes, strive to make the true Protestants of this Kingdom (under the notion of Puritans) to appear odious to his Maiestie; so that by that means they might gain strength to themselves, and weaken his Maiestie, by with-drawing the affection of his Subiects from him. As touching his Maiesties desires, that they should aid and as<g ref="char:EOLhyphen"/>sist him, they promised their best aid against the
+<pb n="5" facs="tcp:197675:4"/> malignant party of Papists, Prelates, Proiectors, under whom they had so long groaned, and by whom his Maiestie had so long been seduced to make war against his loyall Subiects, onely to support them in their lordly pride, and domi<g ref="char:EOLhyphen"/>neering Prelacie. As for his Maiesties securitie, they promised during his abode there, that what Forces he should think requisite for his guard, should be at his command; and what other sup<g ref="char:EOLhyphen"/>plies should be necessary for Princely support, and might be agreeable to their dutie. But for any for<g ref="char:EOLhyphen"/>ces or assistance of men or moneys, to be imploy<g ref="char:EOLhyphen"/>ed against the Parliament, both their loyalties to his Maiestie, nor their care of the peace of the Kingdom could no way consent to.</p>
+            <p>Likewise they humbly desired his Maiestie to abandon those evill Counsellors that laboured his destruction, and that he would withdraw his protection from those Delinquents, and deliver them up to the iustice of the Law, that their pu<g ref="char:EOLhyphen"/>nishment might deterre others from offending in the like nature.</p>
+            <p>Likewise they humbly desired his Maiestie to throw down his Armes, and embrace his loyall Subiects in the Arms of his love, which was the onely and most effectuall means to increase a
+<pb n="6" facs="tcp:197675:5"/> better obedience, and a firmer obligation of love and peace, then any forces could ever obtain: this if they might obtain, they would be aiding and assisting, and during life daily pray, &amp;c.</p>
+            <p>At the receit of this, his Maiesty seemed but little discontented, but with an affable behaviour marcht up to <hi>Vxeter,</hi> where having made his re<g ref="char:EOLhyphen"/>sidence that night, on the morrow Prince <hi>Robert</hi> with his Troops endeavoured to force men to serve, and to seise their Armes for the Kings use: And such as refused he burnt their houses, inso<g ref="char:EOLhyphen"/>much that the County was forced to rise and fall upon the Troops. So that Prince <hi>Robert</hi> was for<g ref="char:EOLhyphen"/>ced to flie to <hi>Vxeter,</hi> for his own security. Very few come in to the King, onely some raged in<g ref="char:EOLhyphen"/>certain Welsh. His Maiestie intends to leave <hi>Vxe<g ref="char:EOLhyphen"/>ter</hi> very suddenly, and to go toward <hi>Shrewsbury:</hi> but what his intent is we cannot discern.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
